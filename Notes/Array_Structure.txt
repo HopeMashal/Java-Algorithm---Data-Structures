@@ -1,0 +1,8 @@
+# Array Structure:
+
+## Array means multiple place in memory, and multiple variables can be stored inside of it
+## Array has a fixed size and its index start from 0 to size-1
+
+# Ex. Array:-
+1- Data => [1,8,10,19,20]
+    --> Data[2]=10 
