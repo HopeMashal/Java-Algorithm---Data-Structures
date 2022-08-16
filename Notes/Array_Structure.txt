@@ -4,5 +4,18 @@
 ## Array has a fixed size and its index start from 0 to size-1
 
 # Ex. Array:-
-1- Data => [1,8,10,19,20]
+1- Data => [1,8,10,19,20,..,..,..]
     --> Data[2]=10 
+
+# For ArrayList in Java:-
+## Access = Q(1) --> Array[index]
+## Search = Q(n) --> 
+    for(i=0;i<n;i++) 
+      if(Array[i]==search) 
+        print(i)
+## Insert = Q(1) OR Q(n) -->
+      Q(1) => Array[7] = 8 (Not Used Before (Empty Place))
+      Q(n) => Array[1] = 5 (Used Before --> Put the new value and shift all the old values)
+        --> [1,5,8,10,19,20,..,..,..]
+## Delete = Q(n) --> Delete Array[2] --> [1,5,10,19,20,..,..,..] -->  Delete the value and shift all the values
+## Space = Q(n)
