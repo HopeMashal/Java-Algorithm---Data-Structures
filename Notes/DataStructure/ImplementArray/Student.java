@@ -25,4 +25,10 @@ public class Student {
     ID = iD;
   }
 
+  @Override
+  public String toString() {
+    return "Student [ID=" + ID + ", Name=" + Name + "]";
+  }
+
+  
 }
