@@ -6,6 +6,7 @@ Java Basic Notes and Some Apps Using Algorithm &amp; Data Structures
   * Big-O Notation [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/DataStructure/Big-O_Notation.txt)
   * Array Structure [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/DataStructure/Array_Structure.txt)
   * Implement Array in Java [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/DataStructure/ImplementArray/Implement_Array.java)
+  * Dynamic Array Structure [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/DataStructure/DynamicArrayStructure.txt)
 
 ### Algorithm
 

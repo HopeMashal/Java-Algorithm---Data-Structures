@@ -1,0 +1,18 @@
+# Dynamic Array Structure:-
+
+## Dynamic Array can change the size(length)
+
+# Ex:
+Array = [4,8,2,7,9]
+Array.add(5) => Array = [4,8,2,7,9,5]
+
+# Array when the number of elements becomes more than the size, the size of the array is multiplied by 2
+
+# Dynamic Array like ArrayList
+
+# For ArrayList in Java:-
+## access = Q(1)
+## delete = Q(n)
+## add = Q(n)
+## search = Q(n)
+## space = Q(n)
