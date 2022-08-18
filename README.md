@@ -8,6 +8,7 @@ Java Basic Notes and Some Apps Using Algorithm &amp; Data Structures
   * Implement Array in Java [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/DataStructure/ImplementArray/Implement_Array.java)
   * Dynamic Array Structure [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/DataStructure/DynamicArrayStructure.txt)
   * Implement Dynamic Array in Java [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/DataStructure/ImplementArray/Implement_Dynamic.java)
+  * Linked List Structure [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/DataStructure/Linked_List_Structure.txt)
 
 ### Algorithm
 
