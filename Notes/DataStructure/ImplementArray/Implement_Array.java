@@ -1,5 +1,3 @@
-package Notes.DataStructure.ImplementArray;
-
 public class Implement_Array {
   public static void main(String[] args) {
     // One Dimension Array

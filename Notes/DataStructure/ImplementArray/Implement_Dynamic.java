@@ -1,6 +1,3 @@
-package Notes.DataStructure.ImplementArray;
-
-
 public class Implement_Dynamic {
   public static void main(String[] args) {
     System.out.println("\n-------------Integer-------------\n");

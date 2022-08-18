@@ -1,1 +1,14 @@
 # Linked List Structure:-
+
+## Link List has multiple node connected together and have the address of next node --> We have the address of first node
+==> Every Node has value and address of next node
+==> next address in last element is NULL
+
+# For Linked List in Java:-
+## search = Q(n)
+## add = Q(n)
+## delete = Q(n)
+## space = Q(n)
+## access = Q(n)
+
+## Double Link List have the address of next node and the address of previous node

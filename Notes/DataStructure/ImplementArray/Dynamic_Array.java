@@ -1,5 +1,3 @@
-package Notes.DataStructure.ImplementArray;
-
 import java.util.Arrays;
 
 public class Dynamic_Array<T> {

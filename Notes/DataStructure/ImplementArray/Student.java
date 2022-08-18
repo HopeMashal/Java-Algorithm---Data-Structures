@@ -1,5 +1,3 @@
-package Notes.DataStructure.ImplementArray;
-
 public class Student {
   private String Name;
   private int ID;
