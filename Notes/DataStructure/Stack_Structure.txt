@@ -1,0 +1,15 @@
+# Stack Structure:-
+
+## Stack --> Last In First Out
+
+## Can't change the size --> If Stack used Array
+## Can change the size --> If Stack used Dynamic Array or LinkedList
+
+## push ==> Add Elements (add to last الاضافة الى النهاية)
+## pop ==> Delete Element (delete from last الحذف من النهاية)
+
+## Big-O in Stack:-
+# Access = Q(n)
+# Search = Q(n)
+# Insert = Q(1) // to last
+# Delete = Q(1) // from last
