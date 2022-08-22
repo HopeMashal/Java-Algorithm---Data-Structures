@@ -12,6 +12,7 @@ Java Basic Notes and Some Apps Using Algorithm &amp; Data Structures
   * Implement Linked List in Java [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/DataStructure/ImplementArray/Implement_Linked.java)
   * Stack Structure [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/DataStructure/Stack_Structure.txt)
   * Implement Stack in Java [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/DataStructure/ImplementArray/Implement_Stack.java)
+  * Queue Structure [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/DataStructure/Queue_Structure.txt)
 
 ### Algorithm
 
