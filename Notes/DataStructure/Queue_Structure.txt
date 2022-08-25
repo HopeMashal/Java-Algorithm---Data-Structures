@@ -8,3 +8,10 @@
 ## Add element => front +=1
 ## Delete element => Take element with Rear = 1 ==> Then Rear = 2
 
+## Queue = [2,3,4,5] => Delete [..,3,4,5]
+--> Queue[1] --> Rear=2, front=4
+
+# Access = O(n)
+# Search = O(n)
+# Insert / Add = O(1)
+# Delete = O(1)
