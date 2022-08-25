@@ -2,14 +2,14 @@
 
 ## Queue --> First In First Out
 
-## If size == front ==> Queue is full
+## If size == Rear ==> Queue is full
 ## Rear at the first elements
 
-## Add element => front +=1
-## Delete element => Take element with Rear = 1 ==> Then Rear = 2
+## Add element => Rear +=1
+## Delete element => Take element with Front = 1 ==> Then Front = 2
 
 ## Queue = [2,3,4,5] => Delete [..,3,4,5]
---> Queue[1] --> Rear=2, front=4
+--> Queue[1] --> Front=2, Rear=4
 
 # Access = O(n)
 # Search = O(n)
