@@ -8,14 +8,14 @@
     --> Data[2]=10 
 
 # For ArrayList in Java:-
-## Access = Q(1) --> Array[index]
-## Search = Q(n) --> 
+## Access = O(1) --> Array[index]
+## Search = O(n) --> 
     for(i=0;i<n;i++) 
       if(Array[i]==search) 
         print(i)
-## Insert = Q(1) OR Q(n) -->
-      Q(1) => Array[7] = 8 (Not Used Before (Empty Place))
-      Q(n) => Array[1] = 5 (Used Before --> Put the new value and shift all the old values)
+## Insert = O(1) OR O(n) -->
+      O(1) => Array[7] = 8 (Not Used Before (Empty Place))
+      O(n) => Array[1] = 5 (Used Before --> Put the new value and shift all the old values)
         --> [1,5,8,10,19,20,..,..,..]
-## Delete = Q(n) --> Delete Array[2] --> [1,5,10,19,20,..,..,..] -->  Delete the value and shift all the values
-## Space = Q(n)
+## Delete = O(n) --> Delete Array[2] --> [1,5,10,19,20,..,..,..] -->  Delete the value and shift all the values
+## Space = O(n)

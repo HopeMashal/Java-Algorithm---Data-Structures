@@ -5,10 +5,10 @@
 ==> next address in last element is NULL
 
 # For Linked List in Java:-
-## search = Q(n)
-## add = Q(n)
-## delete = Q(n)
-## space = Q(n)
-## access = Q(n)
+## search = O(n)
+## add = O(n)
+## delete = O(n)
+## space = O(n)
+## access = O(n)
 
 ## Double Link List have the address of next node and the address of previous node

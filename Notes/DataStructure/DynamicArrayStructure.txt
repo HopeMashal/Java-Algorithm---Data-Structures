@@ -11,8 +11,8 @@ Array.add(5) => Array = [4,8,2,7,9,5]
 # Dynamic Array like ArrayList
 
 # For Dynamic Array in Java:-
-## access = Q(1)
-## delete = Q(n)
-## add = Q(n)
-## search = Q(n)
-## space = Q(n)
+## access = O(1)
+## delete = O(n)
+## add = O(n)
+## search = O(n)
+## space = O(n)

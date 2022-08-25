@@ -1,2 +1,10 @@
 # Queue Structure:-
 
+## Queue --> First In First Out
+
+## If size == front ==> Queue is full
+## Rear at the first elements
+
+## Add element => front +=1
+## Delete element => Take element with Rear = 1 ==> Then Rear = 2
+

@@ -9,7 +9,7 @@
 ## pop ==> Delete Element (delete from last الحذف من النهاية)
 
 ## Big-O in Stack:-
-# Access = Q(n)
-# Search = Q(n)
-# Insert = Q(1) // to last
-# Delete = Q(1) // from last
+# Access = O(n)
+# Search = O(n)
+# Insert = O(1) // to last
+# Delete = O(1) // from last
