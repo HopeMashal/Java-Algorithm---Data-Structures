@@ -1,0 +1,5 @@
+# Linked List Queue Structure:-
+
+# Circular Queue --> When delete all elements, can use the queue list again ==> limited size
+
+# Double Linked List Queue with next & previous node --> unlimited size
