@@ -9,6 +9,10 @@ public class Entry<T> {
     next = null;
   }
 
+  public Entry() {
+    next = null;
+  }
+
   public int getKey() {
     return Key;
   }
@@ -16,6 +20,4 @@ public class Entry<T> {
   public T getValue() {
     return Value;
   }
-
-  
 }
