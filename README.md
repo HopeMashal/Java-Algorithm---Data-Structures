@@ -21,5 +21,6 @@ Java Basic Notes and Some Apps Using Algorithm &amp; Data Structures
   * Refresh Collections [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/DataStructure/Refresh_Collections.java)
 
 ### Algorithm
+  * Linear Search Algorithm [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/Algorithm/Linear_Search.txt)
 
 ## Apps
