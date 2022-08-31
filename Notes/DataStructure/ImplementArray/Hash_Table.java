@@ -21,5 +21,19 @@ public class Hash_Table<T> {
     newItem.next = ArrayValue.next;
     ArrayValue.next=newItem;
   }
+
+  public T get(int key){
+    T value = null;
+    int index = GetHash(key);
+    Entry ArrayValue = arrayHash[index];
+    while(ArrayValue!=null){
+      if(ArrayValue.getKey() == key){
+        value = (T)ArrayValue.getValue();
+        break;
+      }
+      ArrayValue=ArrayValue.next;
+    }
+    return value;
+  }
   
 }

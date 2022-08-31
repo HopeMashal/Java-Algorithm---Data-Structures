@@ -1,11 +1,11 @@
 public class Entry<T> {
-  int Key;
-  T Value;
+  int key;
+  T value;
   Entry next;
 
   public Entry(int key, T value) {
-    Key = key;
-    Value = value;
+    this.key = key;
+    this.value = value;
     next = null;
   }
 
@@ -14,10 +14,10 @@ public class Entry<T> {
   }
 
   public int getKey() {
-    return Key;
+    return key;
   }
 
   public T getValue() {
-    return Value;
+    return value;
   }
 }
