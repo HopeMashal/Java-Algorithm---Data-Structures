@@ -18,6 +18,7 @@ Java Basic Notes and Some Apps Using Algorithm &amp; Data Structures
   * Implement Linked List Queue in Java [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/DataStructure/ImplementArray/Implement_Linked_Queue.java)
   * Hash Table Structure [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/DataStructure/Hash_Table_Structure.txt)
   * Implement Hash Table in Java [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/DataStructure/ImplementArray/Implement_Hash_Table.java)
+  * Refresh Collections [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/DataStructure/Refresh_Collections.java)
 
 ### Algorithm
 

@@ -10,6 +10,6 @@ Add 20 --> 20%8 = 4 ==> put it in index 4
 ==> We have Key and Value in Hash Table
 
 # Access = 6%8 = 6 --> index 6
-# Search = Q(n)
-# insert = Q(n)
-# Delete = Q(n)
+# Search = O(n)
+# insert = O(n)
+# Delete = O(n)
