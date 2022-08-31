@@ -1,2 +1,15 @@
 # Hash Table Structure:-
 
+# How to put elements in Hash Table:-
+Size = 8
+Every index is list
+Add 10 --> 10%8 = 2 ==> put it in index 2
+Add 26 --> 26%8 = 2 ==> put it in index 2
+Add 4 --> 4%8 = 0 ==> put it in index 0
+Add 20 --> 20%8 = 4 ==> put it in index 4
+==> We have Key and Value in Hash Table
+
+# Access = 6%8 = 6 --> index 6
+# Search = Q(n)
+# insert = Q(n)
+# Delete = Q(n)
