@@ -1,2 +1,13 @@
 # Linear Search Algorithm:-
 
+## Like for loop, you need to check all elements to find this element ==> access = O(n)
+** Example:-
+int a[] =[1,5,4,10,12]
+for(int i=0;i<a.length;i++){
+  if(a[i]==4){
+    System.out.print("Number is Found in index no. "+(i+1));
+    break;
+  }
+}
+O = Co+n(C1+C2+C3) = O(n)
+
