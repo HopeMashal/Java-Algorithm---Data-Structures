@@ -25,5 +25,7 @@ Java Basic Notes and Some Apps Using Algorithm &amp; Data Structures
   * Implement Linear Search in Java [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/Algorithm/Implementation/LinearSearch.java)
   * Binary Search Algorithm [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/Algorithm/Binary_Search.txt)
   * Implement Binary Search in Java [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/Algorithm/Implementation/BinarySearch.java)
+  * Interpolation Search Algorithm [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/Algorithm/Interpolation_Search.txt)
+  * Implement Interpolation Search in Java [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/Algorithm/Implementation/InterpolationSearch.java)
 
 ## Apps
