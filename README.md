@@ -22,5 +22,6 @@ Java Basic Notes and Some Apps Using Algorithm &amp; Data Structures
 
 ### Algorithm
   * Linear Search Algorithm [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/Algorithm/Linear_Search.txt)
+  * Implement Linear Search in Java [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/Algorithm/Implementation/LinearSearch.java)
 
 ## Apps
