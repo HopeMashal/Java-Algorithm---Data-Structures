@@ -1,2 +1,12 @@
 # Interpolation Search Algorithm :-
 
+# Interpolation Search id USED IN:
+1- Dictionary
+2- Book Index
+3- Phone Number
+
+## Example:
+PhoneNumberStart = [0011,0022,0033,1144,1166,1188,3322,3344,3388,3399]
+Selected = 1166 ==> in index no. 4
+mid = low + (((high-low)/(A(high)-A(low)))*(X-A(low)))
+mid = 0 +(((9-0)/(3399-0011))*(1166-0011))
