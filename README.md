@@ -28,5 +28,6 @@ Java Basic Notes and Some Apps Using Algorithm &amp; Data Structures
   * Interpolation Search Algorithm [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/Algorithm/Interpolation_Search.txt)
   * Implement Interpolation Search in Java [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/Algorithm/Implementation/InterpolationSearch.java)
   * Recursion Calls [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/Algorithm/Recursion_Calls.txt)
+  * Bubble Sort Algorithm [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/Algorithm/Bubble_Sort.txt)
 
 ## Apps
