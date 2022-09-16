@@ -31,5 +31,6 @@ Java Basic Notes and Some Apps Using Algorithm &amp; Data Structures
   * Bubble Sort Algorithm [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/Algorithm/Bubble_Sort.txt)
   * Implement Bubble Sort in Java [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/Algorithm/Implementation/Bubble_Sort.java)
   * Merge Sort Algorithm [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/Algorithm/Merge_Sort.txt)
+  * Implement Merge Sort in Java [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/Algorithm/Implementation/Merge_Sort.java)
 
 ## Apps
