@@ -8,7 +8,7 @@ Check if 8 is larger than 7 or not
 ... etc
 
 for(i=0;i<n;i++){ //n
-  for(j=1;j<n-1;j++){ //n
+  for(j=1;j<n-i;j++){ //n
     if(array[j-1] > array[j]){ //C
       temp = array[j-1];
       array[j-1] = array[j];
