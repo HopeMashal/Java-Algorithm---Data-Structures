@@ -33,5 +33,6 @@ Java Basic Notes and Some Apps Using Algorithm &amp; Data Structures
   * Merge Sort Algorithm [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/Algorithm/Merge_Sort.txt)
   * Implement Merge Sort in Java [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/Algorithm/Implementation/Merge_Sort.java)
   * Heap Sort Algorithm [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/Algorithm/Heap_Sort.txt)
+  * Implement Heap Sort in Java [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/Algorithm/Implementation/Heap_Sort.java)
 
 ## Apps

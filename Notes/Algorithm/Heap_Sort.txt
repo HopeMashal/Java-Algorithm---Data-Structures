@@ -1,2 +1,26 @@
 # Heap Sort:-
 
+Example:- Tree
+            1
+            |
+      ______|______
+     |             |
+     4             6
+     |             |
+ ____|____         2
+|         |
+8         5
+
+Every Node:- Left (2K), Right (2K+1)
+index 1 -> 1
+index 2 -> 4 (2*1) , k=1
+index 3 -> 6 (2*1 +1) , k=1
+index 4 -> 8 (2*2) , k=2
+index 5 -> 5 (2*2 +1) , k=2
+index 6 -> 2 (2*3) , k=3
+==> Array = [1,4,6,8,5,2] => Sorting
+
+O(n*log(n))
+time = n*log(n)
+space => O(1)
+merge space O(n)
