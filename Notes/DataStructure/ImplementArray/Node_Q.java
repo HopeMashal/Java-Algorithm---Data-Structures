@@ -11,5 +11,4 @@ public class Node_Q<T> {
     this.previous = previous;
   }
 
-  
 }

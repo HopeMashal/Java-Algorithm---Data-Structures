@@ -5,18 +5,18 @@ public class Stack_LinkedList {
     this.head = head;
   }
 
-  public void push(Node newNode){ //O(1)
+  public void push(Node newNode) { // O(1)
     newNode.next = head;
     head = newNode;
   }
 
-  public void pop(){ //O(1)
+  public void pop() { // O(1)
     head = head.next;
   }
 
-  public void Display(){
+  public void Display() {
     Node n = head;
-    while(n!=null){
+    while (n != null) {
       System.out.println(n.value);
       n = n.next;
     }

@@ -7,11 +7,11 @@ public class Implement_Queue {
     queue.Queue("Akira");
     queue.Queue("Iso"); // Queue is full
     System.out.println(queue.DeQueue()); // Amal
-    System.out.println(queue.DeQueue()); //Hope
+    System.out.println(queue.DeQueue()); // Hope
     System.out.println(queue.DeQueue()); // Yuki
-    System.out.println(queue.DeQueue()); //Akira
-    System.out.println(queue.DeQueue()); //Queue is empty \n null
-    System.out.println("Rear: "+queue.Rear); //Rear: 3
-    System.out.println("Front: "+queue.Front); // Front: 4
+    System.out.println(queue.DeQueue()); // Akira
+    System.out.println(queue.DeQueue()); // Queue is empty \n null
+    System.out.println("Rear: " + queue.Rear); // Rear: 3
+    System.out.println("Front: " + queue.Front); // Front: 4
   }
 }

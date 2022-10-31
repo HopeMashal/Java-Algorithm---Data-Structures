@@ -5,18 +5,18 @@ public class Linked_List {
     this.head = head;
   }
 
-  public void add(Node newNode){ //O(1)
+  public void add(Node newNode) { // O(1)
     newNode.next = head;
     head = newNode;
   }
 
-  public void delete(){ //O(1)
+  public void delete() { // O(1)
     head = head.next;
   }
 
-  public void Display(){
+  public void Display() {
     Node n = head;
-    while(n!=null){
+    while (n != null) {
       System.out.println(n.value);
       n = n.next;
     }

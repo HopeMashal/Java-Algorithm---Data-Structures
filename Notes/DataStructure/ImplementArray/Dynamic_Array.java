@@ -5,7 +5,7 @@ public class Dynamic_Array<T> {
   private int size;
 
   public Dynamic_Array() {
-    size=0;
+    size = 0;
     data = new Object[1];
   }
 
@@ -17,20 +17,20 @@ public class Dynamic_Array<T> {
     return data.length;
   }
 
-  public T get(int index){
+  public T get(int index) {
     return (T) data[index];
   }
 
-  public void put(T element){
-    ensureCapacity(size+1);
-    data[size++]=element;
+  public void put(T element) {
+    ensureCapacity(size + 1);
+    data[size++] = element;
   }
 
-  public void ensureCapacity(int minCapacity){
+  public void ensureCapacity(int minCapacity) {
     int oldCapacity = data.length;
-    if(minCapacity > oldCapacity){
+    if (minCapacity > oldCapacity) {
       int newCapacity = oldCapacity * 2;
-      if(newCapacity<minCapacity){ // When deleted element
+      if (newCapacity < minCapacity) { // When deleted element
         newCapacity = minCapacity;
       }
       data = Arrays.copyOf(data, newCapacity);

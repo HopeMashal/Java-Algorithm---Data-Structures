@@ -1,7 +1,7 @@
 public class Student {
   private String Name;
   private int ID;
-  
+
   public Student(String name, int iD) {
     Name = name;
     ID = iD;
@@ -28,5 +28,4 @@ public class Student {
     return "Student [ID=" + ID + ", Name=" + Name + "]";
   }
 
-  
 }
