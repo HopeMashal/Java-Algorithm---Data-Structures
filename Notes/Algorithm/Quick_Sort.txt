@@ -1,2 +1,17 @@
 # Quick Sort Algorithm:-
 
+# Select the pivot. Then compare the numbers with pivot number (Start from left to right).
+
+# Example:
+Array = [6,8,7,4,3,2,1] --> pivot is 4
+6 larger than 4 , 1 smaller than 4 --> so replace the place of 1 & 6
+[1,8,7,4,3,2,6] 
+8 larger than 4 , 2 smaller than 4 --> so replace the place of 2 & 8
+[1,2,7,4,3,8,6]
+7 larger than 4 , 3 smaller than 4 --> so replace the place of 3 & 7
+[1,2,3,4,7,8,6] --> [1,2,3] & [7,8,6] ==> Two Arrays
+[1,2,3] ==> pivot is 2
+[7,8,6] ==> pivot is 8
+... etc
+
+Quick Sort: O(n^2)
