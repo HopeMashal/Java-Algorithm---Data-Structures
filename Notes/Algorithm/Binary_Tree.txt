@@ -20,4 +20,18 @@
   6     8   10    12
 
 
-  
+# Binary Search Tree (BST):-
+
+          10 ==> الجانب الايمن اكبر من الجانب الايسر
+      ____|____
+     |         |
+     9         12
+             __|__
+            |     |
+            11    13
+
+Binary Search Tree: O(n) --> For SEARCH
+
+Binary Search Tree: O(n) --> For ADDITION operation
+
+Binary Search Tree: O(n) --> For SUBTRACTION operation
