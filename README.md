@@ -42,3 +42,4 @@ Java Basic Notes and Some Apps Using Algorithm &amp; Data Structures
 - Implement Quick Sort in Java [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/Algorithm/Implementation/Quick_Sort.java)
 - Binary Tree Algorithm [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/Algorithm/Binary_Tree.txt)
 - Implement Binary Tree in Java [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/Algorithm/Implementation/Graph/BinaryTreeDemo.java)
+- Graph Representation with Matrix VS Adjacency List [GO](https://github.com/HopeMashal/Java-Algorithm---Data-Structures/blob/master/Notes/Algorithm/Graph_Representation.txt)
