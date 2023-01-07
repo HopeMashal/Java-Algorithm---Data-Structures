@@ -22,4 +22,25 @@ Matrix:
 1 -- connected to each other
 0 -- not connected to each other
 
+Adjacency List:
+1 -- 4 -- 6 (Linked List)
+4 -- 8 -- 10
+6 -- 12
+8
+10
+12
 
+Adjacency List: (OR this way)
+1 -- 4 -- 6 (Linked List)
+4 -- 1 -- 8 -- 10
+6 -- 1 -- 12
+8 -- 4
+10 -- 4
+12 -- 6
+
+________    | Matrix | Adjacency List
+Access      | Q(1)   |  Q(n)
+Use memory  | worse  |  best
+Child access| worse  |  best
+
+Adjacency List is the (BEST)
